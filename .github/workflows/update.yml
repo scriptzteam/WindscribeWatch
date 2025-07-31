@@ -1,4 +1,4 @@
-name: Update Mullvad Data
+name: Update Windscribe Data
 
 on:
   schedule:
